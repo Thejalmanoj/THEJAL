@@ -3,8 +3,6 @@
   <img src="https://github.com/Thejalmanoj/THEJAL/blob/main/github-header-banner.png" alt="Thejal Banner" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm <span style="color:#6C63FF;">THEJAL</span> 👋</h1>
-
 <h3 align="center">Cyber Security | Okta | Java & Python </h3>
 
 ---

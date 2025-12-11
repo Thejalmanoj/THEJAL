@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Thejalmanoj/Thejalmanoj/blob/main/assets/banner.png" alt="Thejal Banner" width="100%">
+  <img src="https://github.com/Thejalmanoj/THEJAL/edit/main/github-header-banner.png" alt="Thejal Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm <span style="color:#6C63FF;">THEJAL</span> 👋</h1>

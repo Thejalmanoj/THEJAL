@@ -8,12 +8,12 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **M.Tech Cyber Security Student**  
-- 💼 Completed **internship at Cognizant (Okta, SSO, Authentication)**  
-- 🚀 Performed a comparative study on **Malware Detection using DNN & CNN (EMBER dataset)**  
-- 🔐 Strong interest in **Cryptography, wireless security and mathematics **.  
-- 💻 Currently working with **linear complexity and statiscal analysis of stream ciphers**.
-- 🌱 Learning: **DSA,Competetive programming and  different security tools**
+🎓 **M.Tech Cyber Security Student**  
+💼 Completed **internship at Cognizant (Okta, SSO, Authentication)**  
+🚀 Performed a comparative study on **Malware Detection using DNN & CNN (EMBER dataset)**  
+🔐 Strong interest in **Cryptography, wireless security and mathematics **.  
+💻 Currently working with **linear complexity and statiscal analysis of stream ciphers**.
+🌱 Learning: **DSA,Competetive programming and  different security tools**
 
 ---
 

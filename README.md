@@ -77,19 +77,6 @@ application
 - Performed statistical analysis of stream ciphers.
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thejalmanoj&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Thejalmanoj&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thejalmanoj&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## ⚡ Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thejalmanoj&theme=react-dark" />

@@ -1,11 +1,7 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://github.com/Thejalmanoj/THEJAL/blob/main/github-header-banner.png" alt="Thejal Banner" width="100%">
-</p>
+<h1 align="center">Hi 👋, I'm Thejal</h1>
+<h3 align="center">Cyber security | Cryptography | Java & Python</h3>
 
-<h3 align="center">Cyber Security | Okta | Java & Python </h3>
-
----
 
 ## 🚀 About Me
 🎓 **M.Tech Cyber Security Student**  

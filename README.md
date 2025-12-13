@@ -72,6 +72,21 @@ application
 - Developed an GUI that read user input (sequence length), generate sequence and calculate different complexities.
 - Performed statistical analysis of stream ciphers.
 ---
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thejalmanoj&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thejalmanoj&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thejalmanoj&layout=compact&theme=tokyonight" />
+</p>
+
+---
 
 ## ⚡ Activity Graph
 <p align="center">

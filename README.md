@@ -88,7 +88,7 @@ application
 🎤 I love Singing  
 🏸 Play Badminton  
 💃 Love Dancing  
-📚 Enjoy walking
+
 ---
 
 ## ⭐ Thanks for Visiting!
